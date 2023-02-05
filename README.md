@@ -24,4 +24,4 @@ The Instacart stakeholders are most interested in the variety of customers in th
 Create a report that describes the analysis methodology, results, and recommendations for Instacart stakeholders from the results
 ## Note
 Instacart is a real company that’s made their data available online. However, the contents of this project brief have been fabricated for the purpose of this Achievement.
-The report sent to the client is done by Google Sheet, converting it to an xlsx file distorts/loses some formats. Please check the original file URL instead: https://docs.google.com/spreadsheets/d/1RgUqBxUv5WBEbnLn72J4dlCLke745aEEmDSp8Mto7n8/edit#gid=1097349771
+The report sent to the client is done by Google Sheet, converting it to an xlsx file distorts/loses some formats. Please check the original file URL instead: https://docs.google.com/spreadsheets/d/1RgUqBxUv5WBEbnLn72J4dlCLke745aEEmDSp8Mto7n8
