@@ -6,7 +6,7 @@ The Instacart stakeholders are most interested in the variety of customers in th
 ## Key questions
 The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders. 
 
-1.They also want to know whether there are particular times of the day when people spend the most money, as this might inform the type of products they advertise at these times. 
+1. They also want to know whether there are particular times of the day when people spend the most money, as this might inform the type of products they advertise at these times. 
 
 2. Instacart has a lot of products with different price tags. Marketing and sales want to use simpler price range groupings to help direct their efforts. 
 
